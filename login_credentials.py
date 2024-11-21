@@ -1,4 +1,5 @@
 username = "somz"
 userid = "89121"
 password = "teamwork"
-print("username:",username,"userid:",userid,"password:",password)
+mail = "somz@gmail.com"
+print("username:",username,"userid:",userid,"password:",password,"mail:",mail)
